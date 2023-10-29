@@ -25,7 +25,7 @@ The algorithm follows the following steps:
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: `git clone https://github.com/parvvaresh/A--ALG/blob/main/a*.py`
 2. Compile and run the code using your preferred compiler.
 3. Provide the necessary inputs, such as the start and goal nodes, and any additional parameters required.
 4. The algorithm will output the path from the start to the goal, or indicate if no path exists.
