@@ -35,5 +35,3 @@ Feel free to modify the code and experiment with different heuristics or search 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-]
